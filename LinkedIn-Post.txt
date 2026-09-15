@@ -1,0 +1,24 @@
+I’m excited to share my first project for the Oasis Infobyte Internship Program! 🚀
+
+💻 Task 1 — Landing Page
+
+I built a modern, responsive landing page for a fictional productivity platform called **NovaFlow**.
+
+✨ Highlights:
+• Responsive design for desktop, tablet & mobile
+• Sticky navigation with smooth section navigation
+• Professional hero section with CTA
+• Features, About, Testimonial and Contact sections
+• Clean HTML5 semantic structure
+• CSS Grid & Flexbox
+• Custom dashboard UI created with HTML/CSS
+• README documentation and organized GitHub structure
+
+🛠️ Tech Stack:
+HTML5 | CSS3 | Flexbox | CSS Grid | Google Fonts
+
+This project helped me strengthen my understanding of responsive layouts, visual hierarchy, spacing, typography, and clean frontend structure.
+
+I’m looking forward to completing the remaining internship tasks and improving my development skills through hands-on projects.
+
+#OasisInfobyte #OIBSIP #WebDevelopment #HTML #CSS #FrontendDevelopment #Internship #LearningByBuilding
